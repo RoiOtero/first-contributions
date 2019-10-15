@@ -19,6 +19,7 @@
 - [Sumit Kumar](https://github.com/sumi
 - [Imry Rosenbaum](https://github.com/imry-rosenbuam)
 - [Fatima Rojo](https://github.com/serfati5)
+- [Roi Otero](https://github.com/RoiOtero)
 - [Yinka 🚀🚀🚀](https://github.com/dryinkuzz)
 - [Anas Yousef](https://github.com/I-XIII-I)
 - [Prayank Nair](https://github.com/PrayankNair)
